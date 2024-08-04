@@ -24,6 +24,21 @@
 
 > https://youtu.be/yHtFunHfXCg - business service
 ---
+### 데이터 개요
+#### 데이터 소스
+![datasource](https://github.com/user-attachments/assets/e4eb2518-cd19-4cda-a82d-d35594739331)
+#### 데이터 분석절차
+![analysisprocess](https://github.com/user-attachments/assets/497d09e2-f870-403b-b895-e2d01aed6e42)
+#### Modeling 절차
+![modelingprocess](https://github.com/user-attachments/assets/6b2e6ad3-5e0f-4ecf-b5fb-2535e78ca372)
+#### 현재 모델링
+![presentmodel](https://github.com/user-attachments/assets/1dc674d2-c30c-42d7-9ebe-a55d3e50a373)
+#### 모델링 결과
+![modeling result](https://github.com/user-attachments/assets/9a05a6a4-ce21-49d1-8802-a604a119e015)
+
+---
+
+---
 #### 웹 개발 페이지 
 #### Main Page
 ![image02](https://github.com/user-attachments/assets/efe70e4d-9196-4370-af4a-77711914fb07)
