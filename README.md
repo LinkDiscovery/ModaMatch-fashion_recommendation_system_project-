@@ -11,10 +11,10 @@
 #### 팀 소개
 |이름|역할|GIT URL|
 |--------|------|-------|
-|신건영|데이터 분석|[https://github.com/LinkDiscovery/ModaMatch-fashion_recommendation_system_project-/tree/main](https://github.com/LinkDiscovery/ModaMatch-fashion_recommendation_system_project-)|
-|장민우|프론트엔드||
-|김보성|백엔드||
-|채수철|백엔드보조||
+|신건영 |데이터 분석 |[https://github.com/LinkDiscovery/ModaMatch-fashion_recommendation_system_project-/tree/main](https://github.com/LinkDiscovery/ModaMatch-fashion_recommendation_system_project-)|
+|장민우 |프론트엔드 ||
+|김보성 |백엔드 ||
+|채수철 |백엔드보조 ||
 ---
 #### 데이터 분석 진행일기(Notion)
 > https://www.notion.so/ModaMatch-ec9f7a15a4f24dbbb080e141b7677f8c
