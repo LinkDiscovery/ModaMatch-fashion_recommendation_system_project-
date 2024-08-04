@@ -11,16 +11,17 @@
 #### 팀 소개
 |이름|역할|GIT URL|
 |------|---|---|
-|신건영|데이터 분석|[https://github.com/LinkDiscovery](https://github.com/LinkDiscovery/HScodeMappingProject)|
+|신건영|데이터 분석|https://github.com/LinkDiscovery/ModaMatch-fashion_recommendation_system_project-/tree/main|
 |장민우|프론트엔드||
 |김보성|백엔드||
 |채수철|백엔드보조||
 ---
 #### 데이터 분석 진행일기(Notion)
-> https://www.notion.so/cd44b82f39d64adca06035bcb77338dd?pm=c
+> https://www.notion.so/ModaMatch-ec9f7a15a4f24dbbb080e141b7677f8c
 --- 
 #### 시연 영상
-> Rink : https://youtu.be/i9hi_IIgkCY
+> https://youtu.be/99uts-qYaJM - customer service
+> https://youtu.be/yHtFunHfXCg - business service
 ---
 #### 웹 개발 페이지 
 #### MAIN
