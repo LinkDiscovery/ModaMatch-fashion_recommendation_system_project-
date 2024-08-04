@@ -67,20 +67,21 @@
 ---
 ### 기술 스택
 
-- **프로그래밍 언어**: Python version: 3.11.9
+- **프로그래밍 언어**: Python version: 3.11.9 & 3.8.19
 
 - **데이터 처리 및 분석**:
   - Pandas version: 2.2.2
-  - NumPy version: 1.26.4
+  - NumPy version: 1.26.4 & 1.19.5
  
 - **머신러닝**:
   - Scikit-learn version: 1.5.0
-    
+- **딥러닝**:
+  - pytorch: 2.0.0
+  - tensorflow: 2.5.0
 - **데이터베이스**:
   - mySQL
  
 - **개발 도구 및 환경**:
-  - Jupyter Notebook
   - Visual Studio Code
     
 - **버전 관리**:
