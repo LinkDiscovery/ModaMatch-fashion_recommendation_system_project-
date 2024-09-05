@@ -12,7 +12,7 @@
 |이름|역할|GIT URL|
 |--------|------|-------|
 |신건영 |데이터 분석 |[https://github.com/LinkDiscovery/ModaMatch-fashion_recommendation_system_project-/tree/main](https://github.com/LinkDiscovery/ModaMatch-fashion_recommendation_system_project-)|
-|장민우 |프론트엔드 ||
+|장민우 |프론트엔드 |https://github.com/minwoowow/project-frontend-modamatch|
 |김보성 |백엔드 |https://github.com/kingboseong/k-fashion-project|
 |채수철 |백엔드보조 ||
 ---
